@@ -1,4 +1,4 @@
 # VetSC
 Official github repo for VetSC.
 
-We will clean up the code, release it and provide some instructions as soon as we can.
+ VetSC, a novel UI-driven, program analysis guided model checking technique that can automatically extract contract semantics in DApps so as to enable targeted safety vetting.
